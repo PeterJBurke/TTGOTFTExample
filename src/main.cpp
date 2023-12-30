@@ -4,7 +4,7 @@
 #include "phonewifi24x24.h"
 #include "phonewifi48x48.h"
 
-
+// Test of github VS code sync 12/30/2023
 //#include "oil.h" 
 TFT_eSPI tft = TFT_eSPI(); 
 

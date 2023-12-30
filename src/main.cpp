@@ -6,6 +6,7 @@
 
 // Test of github VS code sync 12/30/2023
 // A test within Github edit in place on website.
+// another test from VS code up to GH
 //#include "oil.h" 
 TFT_eSPI tft = TFT_eSPI(); 
 
